@@ -168,8 +168,9 @@ h6 {
   letter-spacing: 0.02em;
   text-align: center;
   max-width: 496px;
-  margin: 0 auto;
-  padding-bottom: 48px;
+  margin-bottom: 48px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .hero-btn {
@@ -492,8 +493,5 @@ h6 {
 .footer-container {
   display: flex;
   align-items: baseline;
-}
-
-.footer-social-wrap {
-  margin-left: 120px;
+  gap: 120px;
 }
