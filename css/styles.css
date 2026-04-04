@@ -387,12 +387,6 @@ h6 {
   overflow: hidden;
 }
 
-.portfolio-thumb img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
 .portfolio-overlay {
   position: absolute;
   top: 0;
